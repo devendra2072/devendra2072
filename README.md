@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/devendra kurwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devendra kurwe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devendra kurwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devendra kurwe" height="30" width="40" /></a>
-<a href="https://fb.com/devendra kurwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devendra kurwe" height="30" width="40" /></a>
+<a href="https://fb.com/devendra kurve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devendra kurwe" height="30" width="40" /></a>
 <a href="https://instagram.com/devendra_soni_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devendra_soni_2" height="30" width="40" /></a>
 </p>
 
