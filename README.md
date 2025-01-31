@@ -11,7 +11,8 @@
 
 - 👯 I’m looking to collaborate on [Saree-project-cybrom](https://github.com/devendra2072/Saree-project-cybrom)
 
-- 🤝 I’m looking for help with [Admin_Deshboard](https://github.com/devendra2072/Admin_Deshboard)
+- 🤝 I’m looking for help with javascript [Admin_Deshboard](https://github.com/devendra2072/Admin_Deshboard)
+- I’m looking for help with python language [Admin_Deshboard](https://devendra2027.pythonanywhere.com/)
 
 - 💬 Ask me about **react**
 
